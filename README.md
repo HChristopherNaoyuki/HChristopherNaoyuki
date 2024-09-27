@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Online Baking System.<br>🌱 I’m currently learning Java.
+🔭 I’m currently working on an Online Banking System.<br>🌱 I’m currently learning Java.
 
 
 # 💻 Tech Stack:
