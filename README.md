@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an airline reservation system in Java.<br>👯 I’m currently not collaborating with anyone.<br>🤝 I’m looking for help with learning Python.<br>🌱 I’m learning JavaScript.<br>💬 Ask me about sorting algorithms.<br>⚡ Fun fact: The average person's left hand does 56% of the typing!
+🔭 I’m currently working on an airline reservation system in Java.<br>👯 I’m currently not collaborating with anyone.<br>🤝 I’m looking for help with an airline reservation system in Java.<br>🌱 I’m learning JavaScript.<br>💬 Ask me about sorting algorithms.<br>⚡ Fun fact: The average person's left hand does 56% of the typing!
 
 
 # 💻 Tech Stack:
