@@ -1,12 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on an airline reservation system in Java.<br>⚡ Fun fact: The average person's left hand does 56% of the typing!
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HChristopherNaoyuki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HChristopherNaoyuki&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HChristopherNaoyuki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# About Me
+
+👋 Hi there! Welcome to my official academic GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
+
+## 🚀 Technologies & Tools
+- **Languages:** Python, JavaScript, Java, HTML, CSS, C
+- **Tools:** VS Code, NetBeans
+
+## 🌱 Current Project
+I’m currently working on a task management system built in Python with a command-line interface for handling tasks. This project includes features such as:
+
+- Adding, listing, completing, deleting, searching, and filtering tasks
+- Persistent storage through serialization, allowing the saving and loading of tasks from a file
+
+Stay tuned for updates!
+
+## 🤝 Let's Connect
+I love collaborating and sharing ideas! If you're interested in working together or just want to chat about tech, feel free to reach out.
+
+Thanks for stopping by!
 
 ## Support My Work
 
@@ -17,6 +30,4 @@ If you find my projects helpful and would like to support me, you can make a don
 Thank you for your support!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HChristopherNaoyuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
