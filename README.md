@@ -9,11 +9,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HChristopherNaoyuki&theme=city_lights&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HChristopherNaoyuki&theme=city_lights&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Donation
+## Support My Work
 
-If you appreciate this project and would like to support its development, consider making a donation:
+If you find my projects helpful and would like to support me, you can make a donation in Bitcoin:
 
 💰 Donations welcome: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`
+
+Thank you for your support!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HChristopherNaoyuki&icon=0&color=0)](https://visitcount.itsvg.in)
