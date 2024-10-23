@@ -1,5 +1,3 @@
----
-
 # About Me
 
 👋 Hi there! Welcome to my official academic GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
