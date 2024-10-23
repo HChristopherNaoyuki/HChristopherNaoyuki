@@ -17,8 +17,6 @@ Stay tuned for updates!
 ## 🤝 Let's Connect
 I love collaborating and sharing ideas! If you're interested in working together or just want to chat about tech, feel free to reach out.
 
-Thanks for stopping by!
-
 ## Support My Work
 
 If you find my projects helpful and would like to support me, you can make a donation in Bitcoin:
