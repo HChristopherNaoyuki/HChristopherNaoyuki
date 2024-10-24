@@ -3,7 +3,7 @@
 👋 Hi there! Welcome to my official academic GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
 
 ## 🚀 Technologies & Tools
-- **Languages:** Python, JavaScript, Java, HTML, CSS, C
+- **Languages:** Python, Java, C, JavaScript, HTML, CSS
 - **Tools:** VS Code, NetBeans
 
 ## 🌱 Current Project
