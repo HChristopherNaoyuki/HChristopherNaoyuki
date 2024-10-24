@@ -19,9 +19,9 @@ I love collaborating and sharing ideas! If you're interested in working together
 
 ## Support My Work
 
-If you find my projects helpful and would like to support me, you can make a donation in Bitcoin - Bitcoin Native Segwit:
+If you find my projects helpful and would like to support me, you can make a donation in Bitcoin.
 
-💰 Donations welcome: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`
+💰 Donations welcome. Bitcoin Native Segwit: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`
 
 Thank you for your support!
 
