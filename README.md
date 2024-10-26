@@ -10,7 +10,6 @@
 I’m currently working on a task management system built in C with a command-line interface for handling tasks. This project includes features such as:
 
 - Adding, listing, completing, deleting, searching, and filtering tasks
-- Persistent storage through serialization, allowing the saving and loading of tasks from a file
 
 Stay tuned for updates!
 
