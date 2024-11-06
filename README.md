@@ -6,12 +6,15 @@
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
 - **Tools:** VS Code, NetBeans
 
-## Support My Work
+# Crypto Donations
 
-If you find my projects helpful and would like to support me, you can make a donation in Bitcoin.
+If you'd like to support the project with a cryptocurrency donation, here are the details:
 
-💰 Donations welcome. Bitcoin Native Segwit: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`
+| Cryptocurrency | Address                                  | 
+|----------------|------------------------------------------|
+| Bitcoin (BTC)  | `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`| 
+| Ethereum (ETH) | `0x23900f5681bC2f1696fd9Fa20dc187830CA3fB76`|
 
-Thank you for your support!
+Feel free to contribute in any way you'd like!
 
 ---
