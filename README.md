@@ -26,9 +26,6 @@ If you'd like to support the project with a cryptocurrency donation, here are th
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HChristopherNaoyuki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HChristopherNaoyuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
