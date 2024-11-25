@@ -4,10 +4,6 @@ Hi there! Welcome to my official academic GitHub account. I’m passionate about
 
  - [Naoyuki Christopher's Offical GitHub Account](https://github.com/Naoyuki-Christopher-H)
 
-## Technologies & Tools
-- **Languages:** Python, Java, C, JavaScript, HTML, CSS
-- **Tools:** VS Code, NetBeans
-
 ## Crypto Donations
 
 If you'd like to support the project with a cryptocurrency donation, here are the details:
