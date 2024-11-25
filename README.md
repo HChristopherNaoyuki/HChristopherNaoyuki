@@ -17,12 +17,8 @@ If you'd like to support the project with a cryptocurrency donation, here are th
 | Bitcoin | `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`| 
 | Ethereum | `0x23900f5681bC2f1696fd9Fa20dc187830CA3fB76`|
 
-## Connect with Me
+## Connect With Me
 - [Instagram](https://www.instagram.com/archives_of_chris/)
 - [X](https://x.com/ArchivesOfChris)
-
----
-
-Feel free to contribute in any way you'd like!
 
 ---
