@@ -21,6 +21,8 @@ If you'd like to support the project with a cryptocurrency donation, here are th
 - [Instagram](https://www.instagram.com/archives_of_chris/)
 - [X](https://x.com/ArchivesOfChris)
 
+---
+
 Feel free to contribute in any way you'd like!
 
 ---
