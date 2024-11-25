@@ -2,7 +2,7 @@
 
 Hi there! Welcome to my official academic GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
 
-- [Offical GitHub Account]([https://github.com/your-other-account](https://github.com/Naoyuki-Christopher-H))
+[Naoyuki Christopher's Offical GitHub Account]((https://github.com/Naoyuki-Christopher-H))
 
 ## 🚀 Technologies & Tools
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
