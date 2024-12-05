@@ -1,6 +1,12 @@
-# About Me
+# Naoyuki Christopher H.
 
 Hi there! Welcome to my official GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
+
+## Technologies & Tools
+
+Here are some of the technologies I work with:
+
+- Languages: JavaScript, Python, Java, C, Swift, CSS, HTML
 
 ## Crypto Donations
 
