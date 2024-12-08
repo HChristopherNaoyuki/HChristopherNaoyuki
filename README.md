@@ -13,12 +13,12 @@ Hi there! Welcome to my official Academic GitHub account.
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HCHristopherNaoyuki&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Random Dev Quote
+### Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Crypto Donations
 
-If you'd like to support the project with a cryptocurrency donation, here are the details:
+If you would like to support with a cryptocurrency donation, your generosity would be greatly appreciate.
 
 | Cryptocurrency | Address                                  | 
 |----------------|------------------------------------------|
