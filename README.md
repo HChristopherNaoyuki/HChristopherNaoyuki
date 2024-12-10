@@ -12,7 +12,7 @@ Welcome to the Academic GitHub of Naoyuki Christopher.
 
 ---
 
-## Research & Academic Projects
+## Academic Projects
 
 Below are some of the key projects that I am currently working on or have worked on in the past:
 
