@@ -14,7 +14,7 @@ Welcome to the Academic GitHub of Naoyuki Christopher.
 
 ## Research & Academic Projects
 
-Below are some of the key projects, papers, and research I’m currently working on or have worked on in the past:
+Below are some of the key projects that I am currently working on or have worked on in the past:
 
 ### Student Management Application
 - **Description**: The Student Management Application is a console-based tool for efficiently managing student records. It features options to capture, search, delete, and report student details, all within an intuitive menu-driven interface.
