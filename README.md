@@ -1,24 +1,77 @@
-# Naoyuki Christopher H.
-Hi there! Welcome to my official Academic GitHub account.
+# Greetings
 
+Welcome to the Academic GitHub of Naoyuki Christopher.
 
-# Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+---
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HCHristopherNaoyuki&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HCHristopherNaoyuki&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HCHristopherNaoyuki&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## About Me
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HCHristopherNaoyuki&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+- **Name**: Naoyuki Christopher
+- **Current Position**: College Student
+- **Field of Study**: IT in Software Development
 
-### Random Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## Research & Academic Projects
+
+Below are some of the key projects, papers, and research I’m currently working on or have worked on in the past:
+
+### Student Management Application
+- **Description**: The Student Management Application is a console-based tool for efficiently managing student records. It features options to capture, search, delete, and report student details, all within an intuitive menu-driven interface.
+- **Tech Stack**: Java, JUnit4. 
+- **Repository Link**: [Student Management Application](https://github.com/HChristopherNaoyuki/student-management-application-java)
+
+### Task Management Program
+- **Description**: A task management system built on Java with a command-line interface for handling tasks. It supports adding, listing, completing, deleting, searching, and filtering tasks, with persistent storage through serialization for saving and loading tasks.
+- **Tech Stack**: Java, Command-line interface (CLI) for user interaction, Serialization for data storage, JUnit4.
+- **Repository Link**: [Task Management Program](https://github.com/HChristopherNaoyuki/task-management-program-java)
+
+---
+
+## Skills & Technologies
+
+I am well-versed in the following technologies and tools:
+
+- Programming Languages: Java, JavaScript, CSS, HTML, C#, Swift, Python
+- Data Analysis: SQL
+- Version Control: Git, GitHub
+
+---
+
+## Current Focus
+
+I am currently working on the following areas:
+
+- Basic Banking Application in Java
+- Employee Management System in Java
+
+---
+
+## How to Cite
+
+If you use any of the projects from this repository, please cite it as follows:
+
+```
+Author(s). (Year) *Title of repository*. Available at: URL (Accessed: Date).
+
+```
+Example:
+```
+Doe, J. (2023) *AwesomeProject*. Available at: https://github.com/johndoe/awesomeproject (Accessed: 11 December 2024).
+
+```
+
+---
+
+## Contributing
+
+Contributions to my projects are always welcome! If you'd like to collaborate, improve, or expand on any of the work here, please feel free to fork the repository and submit a pull request.
+
+---
 
 ## Crypto Donations
 
-If you would like to support with a cryptocurrency donation, your generosity would be greatly appreciate.
+If you'd like to support with a cryptocurrency donation, here are the details:
 
 | Cryptocurrency | Address                                  | 
 |----------------|------------------------------------------|
@@ -27,6 +80,7 @@ If you would like to support with a cryptocurrency donation, your generosity wou
 | Solana | `9HcJEr5bENuiyGofVsDwrAPXomxzGMmsCLXNPst4udLi`|
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HCHristopherNaoyuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Thank you for visiting!
+
+Thank you for checking out my academic profile on GitHub! I look forward to collaborating and sharing knowledge with the academic community.
