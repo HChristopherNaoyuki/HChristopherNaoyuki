@@ -32,7 +32,7 @@ Below are some of the key projects that I am currently working on or have worked
 
 I am well-versed in the following technologies and tools:
 
-- Programming Languages: Java, JavaScript, CSS, HTML, C#, Swift, Python
+- Programming Languages: Java, JavaScript, CSS, HTML, C, C#, C++, Swift, Python
 - Data Analysis: SQL
 - Version Control: Git, GitHub
 
