@@ -1,16 +1,56 @@
-## Hi there 👋
+# Welcome to My GitHub Profile  
 
-<!--
-**HChristopherNaoyuki/HChristopherNaoyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
 
-Here are some ideas to get you started:
+I am a software developer passionate about **systems development**, **backend engineering**, and **programming languages**. I enjoy working on **low-level and high-level programming**, building **efficient**, **scalable**, and **maintainable** software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## Technical Skills  
+
+- **Programming Languages**: Java, JavaScript (ES6+), Python, Swift, C#, C++, C  
+- **Web Development**: HTML, CSS, JavaScript, Node.js  
+- **Version Control**: Git, GitHub  
+- **Software Development Principles**: OOP, Design Patterns, Algorithms, and Data Structures  
+
+---  
+
+## Citing My Work  
+
+If you reference my projects, please use the following format:  
+
+> Author(s). (Year). *Title of Repository*. Available at: [URL] (Accessed: [Date]).  
+
+---  
+
+## Contributing  
+
+I welcome contributions! To contribute:  
+
+1. Fork the repository.  
+2. Make improvements following best practices.  
+3. Submit a pull request with a clear description.  
+
+All submissions are reviewed for quality and alignment with the project’s goals.  
+
+---  
+
+## Support Me  
+
+If you enjoy my work and would like to show appreciation, I accept tips in the following cryptocurrencies:  
+
+- **Bitcoin (BTC)**: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`  
+- **Ethereum (ETH)**: `0x23900f5681bC2f1696fd9Fa20dc187830CA3fB76`  
+- **Solana (SOL)**: `9HcJEr5bENuiyGofVsDwrAPXomxzGMmsCLXNPst4udLi`  
+
+Every contribution helps me keep improving and creating more open-source software. Thank you for your support!  
+
+---  
+
+## Connect and Collaborate  
+
+I’m always open to discussions, collaborations, and new ideas. Feel free to reach out!  
+
+Thank you for visiting my profile.
+
+---
