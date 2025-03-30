@@ -10,7 +10,6 @@ My focus is on building robust systems that not only perform well but are also e
 - **Web Development:** HTML, CSS, JavaScript, Node.js
 - **Version Control:** Git, GitHub
 - **Software Development Principles:** Object-Oriented Programming (OOP), Design Patterns, Algorithms, Data Structures
-- **Tools & Technologies:** Docker, RESTful APIs, SQL/NoSQL Databases
 
 ## Citing My Work
 If you reference any of my projects, please use the following citation format:
