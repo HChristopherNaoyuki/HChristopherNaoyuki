@@ -22,7 +22,7 @@
 |  - Industrial                                                 |
 |  - Simplistic                                                 |
 +---------------------------------------------------------------+
-|  PREFERRED OS                                                |
+|  PREFERRED OS                                                 |
 |  - Main: Windows                                              |
 |  - Secondary: macOS, Linux                                    |
 +---------------------------------------------------------------+
