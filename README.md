@@ -19,7 +19,7 @@
 |  - Simplistic                                                 |
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
-|  - Main: Linux                                                |
+|  - Main:      Linux                                           |
 |  - Secondary: Windows                                         |
 +---------------------------------------------------------------+
 |  PROGRAMMING LANGUAGES                                        |
