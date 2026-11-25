@@ -23,21 +23,39 @@
 |  TECHNICAL SKILLS                                             |
 |                                                               |
 |  Languages:                                                   |
-|  - C#, Java, Kotlin, PHP, JavaScript, SQL                     |
-|  - C++, C, Python                                             |
+|  - C#                                                         |
+|  - C++                                                        |
+|  - C                                                          |
+|  - Python                                                     |
+|  - Java                                                       |
+|  - Kotlin                                                     |
+|  - PHP                                                        |
+|  - JavaScript                                                 |
+|  - SQL                                                        |
+|  - T-SQL                                                      |
 |                                                               |
 |  Frameworks and Platforms:                                    |
-|  - ASP.NET Core MVC, Entity Framework Core, WPF, XAML         |
-|  - Razor, Android                                             |
+|  - ASP.NET Core MVC                                           |
+|  - Entity Framework Core                                      |
+|  - WPF                                                        |
+|  - XAML                                                       |
+|  - Razor                                                      |
+|  - Android                                                    |
 |                                                               |
 |  Web:                                                         |
-|  - HTML, CSS                                                  |
+|  - HTML                                                       |
+|  - CSS                                                        |
 |                                                               |
 |  Databases:                                                   |
-|  - SQL Server, MySQL, Oracle                                  |
+|  - SQL Server                                                 |
+|  - MySQL                                                      |
+|  - Oracle                                                     |
 |                                                               |
 |  Tools:                                                       |
-|  - Git, GitHub, Visual Studio, Android Studio                 |
+|  - Git                                                        |
+|  - GitHub                                                     |
+|  - Visual Studio                                              |
+|  - Android Studio                                             |
 |  - Oracle SQL Developer                                       |
 +---------------------------------------------------------------+
 |  SOCIAL & PROFESSIONAL PROFILES                               |
