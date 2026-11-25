@@ -1,7 +1,7 @@
 ```
 +---------------------------------------------------------------+
 |  Naoyuki "Yuki" Christopher Higaki                            |
-|  POSITION: Software Engineer                                  |
+|  POSITION: Software Developer                                 |
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
@@ -14,17 +14,40 @@
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
 |  - Primary: Fedora Linux                                      |
-|  - Virtual Machine: Windows 10                                |
+|  - Virtual Machine: Windows 11                                |
 +---------------------------------------------------------------+
 |  FOCUS                                                        |
-|  - Computer Science                                           |
 |  - Software Engineering                                       |
 |  - Software Development                                       |
++---------------------------------------------------------------+
+|  TECHNICAL SKILLS                                             |
+|                                                               |
+|  Languages:                                                   |
+|  - C#, Java, Kotlin, PHP, JavaScript, SQL                     |
+|  - C++, C, Python                                             |
+|                                                               |
+|  Frameworks and Platforms:                                    |
+|  - ASP.NET Core MVC, Entity Framework Core, WPF, XAML         |
+|  - Razor, Android                                             |
+|                                                               |
+|  Web:                                                         |
+|  - HTML, CSS                                                  |
+|                                                               |
+|  Databases:                                                   |
+|  - SQL Server, MySQL, Oracle                                  |
+|                                                               |
+|  Tools:                                                       |
+|  - Git, GitHub, Visual Studio, Android Studio                 |
+|  - Oracle SQL Developer                                       |
 +---------------------------------------------------------------+
 |  SOCIAL & PROFESSIONAL PROFILES                               |
 |  - LeetCode:            YukiKapan                             |
 |  - Personal GitHub:     Naoyuki-Christopher-H                 |
 |  - Academic GitHub:     HChristopherNaoyuki                   |
 |  - Professional Github: NaoyukiChristopherYuki                |
++---------------------------------------------------------------+
+|  OPPORTUNITIES                                                |
+|  Looking for graduate programs, internships, and              |
+|  entry-level opportunities.                                   |
 +---------------------------------------------------------------+
 ```
